@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  margin: 10;
+  font-family: georgia;
+}
+.navbar {
+  background-color: #101010	;
+  overflow:hidden;
+}
+.navbar a {
+  font-family: georgia;
+  font-style: normal;
+  float:left;
+  color:white;
+  padding: 14px 20px;
+}
+.navbar a:hover {
+  background-color: gray;
+}
