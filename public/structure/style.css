@@ -1,8 +1,10 @@
-body{
+body {
   text-align: center;
   margin: 10;
   font-family: georgia;
 }
+p
+{padding: 1% 20% 1% 20%}
 .navbar {
   background-color: #101010	;
   overflow:hidden;
@@ -15,5 +17,5 @@ body{
   padding: 14px 20px;
 }
 .navbar a:hover {
-  background-color: gray;
+  background-color: #409673;
 }
