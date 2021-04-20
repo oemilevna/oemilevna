@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  margin: 10;
+  font-family: georgia;
+}
+p
+{padding: 1% 20% 1% 20%}
+.navbar {
+  background-color: #B43238	;
+  overflow:hidden;
+}
+.navbar a {
+  font-family: georgia;
+  font-style: normal;
+  float:left;
+  color:white;
+  padding: 14px 20px;
+}
+.navbar a:hover {
+  background-color: 78000E;
+}
